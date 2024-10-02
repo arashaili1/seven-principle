@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(32 217 191);
+    color: #c7ff00d9;
+    max-width: 1000px;
+    margin-left: auto;
+    margin-left:  100px;
+    margin-right: auto;
+    margin-right: 50px;
+    font-family: "furura"
+}
+em{
+    font-size: 30px;
+   text-align :right;
+    margin-right: 40px;
+
+}
+h1{
+    font-size: 70px;
+    line-height: 120%;
+color: #2404f6;
+text-decoration: underline;
+
+}
+
+h2{
+    font-weight: 350;
+    font-family:"futura";
+    font-style: italic;
+color: #db820e;
+max-width: 900px;
+
+}
+h3{
+    
+}
